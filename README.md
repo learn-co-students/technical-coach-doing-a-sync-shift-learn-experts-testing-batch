@@ -15,7 +15,7 @@ If you are free, you will need to go through the inactive questions and mark any
 If all the older inactive questions have been resolved and you still are free, feel free to help dispatch out. Pick a question from the chat, click the clipboard at the top as if you were going to queue up a question (see above image). Paste into `#technical-coaches` channel, replace `queue` with `take`. The format should look like `qbot take <link>`. That will assign the question to you. Then you can help them in chat and ask if they would like to pair program. If you take a question make sure to ask them: "Would you like to pair program for 20 minutes?".
 
 ## Before the Screenshare
-Please be sure to familiarize yourself with the [screen share documentation](https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md) **UPDATE THIS**.
+Please be sure to familiarize yourself with the [screen share documentation](https://github.com/flatiron-labs/technical-coach-resources/blob/master/screensharing.md).
 
 Each pairing session should be limited to 20 minutes (We recommend blocking out 15min for the pairing itself, and 5min for the setup time). After you greet the student, if they do not reply to you in 5 minutes, you will want to mark them unresponsive by typing in `qbot unresponsive`. This will place the question on hold for 5 minutes before assigning the question to the next available TC. If you are the TC that gets assigned an unresponsive question, message the student on AAQ to see if they are ready to continue. If they have still not replied since the last link was given, you can do `qbot unresponsive`. If you notice the question is older than 30 minutes with no response from the student, then you can `qbot done` the question in order to resolve it.
 
@@ -49,5 +49,5 @@ If you're not on with a student, you can simply `qbot out` to end your shift.
 
 ## Resources
 
-* [Screen Share Documentation](https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md) **UPDATE THIS**
-* [Qbot Commands](https://github.com/flatiron-labs/online-ed-ops/blob/master/technical-coach-team/role-technical-coach/lib/qbot.md) 
+* [Screen Share Documentation](https://github.com/flatiron-labs/technical-coach-resources/blob/master/screensharing.md)
+* [Qbot Commands](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md) 
