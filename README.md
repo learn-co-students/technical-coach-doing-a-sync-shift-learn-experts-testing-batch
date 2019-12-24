@@ -38,7 +38,7 @@ If they have a bad internet connection, you can do chat only support (no Zoom). 
 
 ![github link](https://s3.amazonaws.com/learn-experts/expert-chat-github-link.png)
 
-This will take you to their forked repository and you can get the url to clone their repo. This will allow you to debug with the student and see all of their errors locally. Note that this procedure will not work for students in the newest version of bootcamp prep (V2), as we do not have access to the Github repositories for students in that track.
+This will take you to their forked repository and you can get the url to clone their repo. This will allow you to debug with the student and see all of their errors locally. Note that this procedure will not work for students in the newest version of Bootcamp Prep track (V2), as we do not have access to the Github repositories for students in that track.
 
 ## Ending Your Shift
 If you receive a question 5 minutes prior to the end of your shift, you can `qbot more help` it to the next available TC. If you receive a question 2 minutes prior to the end of your shift, you will need to `qbot more help` and then `qbot out`. Any questions assigned to you for 2 minutes or longer will need to be added back to the queue before you `qbot out`.
