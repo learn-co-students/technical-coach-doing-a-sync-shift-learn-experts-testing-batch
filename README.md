@@ -1,6 +1,7 @@
+# Doing a Sync Shift
+
 ## Note: this lesson is outdated, and references language and platforms we no longer use, e.g. "sync", "dispatch", "qbot". Any screenshots are also outdated. You should feel free to skip this lesson for now. 
 
-# Doing a Sync Shift
 
 ## Starting Your Shift
 When you start your shift:
